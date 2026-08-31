@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Hi! I'm Najla, a Data Science student interested in
+Hi! I'm Najla, a Data Science graduate interested in
 Data Analytics, Data Visualization, and Business Intelligence.
 
 This repository contains selected projects I've worked on
