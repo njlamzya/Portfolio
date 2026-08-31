@@ -13,4 +13,4 @@ through university coursework, personal projects, and learning experiences.
 - Excel
 - Power BI
 - Data Visualization
-- Machine Learning
+- Data Analytics
